@@ -1,1 +1,1 @@
-# bank-project
+It is a bank prototype which uses python for frontend and mysql for backend . As it takes data from user through python and stores the data in mysql database in the system . We can add more features in this like updating an account , modifiying an account . 
